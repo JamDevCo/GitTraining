@@ -1,7 +1,3 @@
-layout: page
-title: "Contributors"
-permalink: /about/contributors/
-
 #### Maintainers:
 
 - Oshane Bailey (@b4oshany)
