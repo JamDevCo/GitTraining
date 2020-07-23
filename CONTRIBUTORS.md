@@ -2,8 +2,15 @@ layout: page
 title: "Contributors"
 permalink: /about/contributors/
 
-## Contributors
-
-Please write your name along with your github username.
+#### Maintainers:
 
 - Oshane Bailey (@b4oshany)
+
+## Contributors
+
+> Please note, if you've contributed to this repository, write your name along with your github username.
+
+
+#### List of contributors.
+
+- Lateefah Smellie
