@@ -13,3 +13,4 @@
 - Lateefah Smellie (raverd)
 - Glenford Williams (@glenfordwilliams)
 - Vivienne Bailey
+- Cornelia Cameron
