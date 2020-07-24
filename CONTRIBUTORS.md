@@ -9,4 +9,4 @@
 
 #### List of contributors.
 
-- Lateefah Smellie
+- Lateefah Smellie (raverd)
