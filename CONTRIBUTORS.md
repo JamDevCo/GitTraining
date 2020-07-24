@@ -1,7 +1,3 @@
-layout: page
-title: "Contributors"
-permalink: /about/contributors/
-
 #### Maintainers:
 
 - Oshane Bailey (@b4oshany)
@@ -13,4 +9,5 @@ permalink: /about/contributors/
 
 #### List of contributors.
 
+- Joanna-Joy Gray
 - Lateefah Smellie (raverd)
