@@ -13,4 +13,4 @@ permalink: /about/contributors/
 
 #### List of contributors.
 
-- Lateefah Smellie - raverd
+- Lateefah Smellie (raverd)
