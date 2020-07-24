@@ -14,3 +14,4 @@ permalink: /about/contributors/
 #### List of contributors.
 
 - Lateefah Smellie
+- Glenford Williams (@glenfordwilliams)
