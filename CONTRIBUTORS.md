@@ -9,4 +9,5 @@
 
 #### List of contributors.
 
+- Joanna-Joy Gray
 - Lateefah Smellie (raverd)
