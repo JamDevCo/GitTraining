@@ -6,6 +6,11 @@
 
 ### Step 1. Fork and clone the repository
 
+#### Fork the project to your own user
+
+<img src="https://i.ibb.co/0yvLS2H/Jamaican-Developers-Git-Training-Git-training-1.png" alt="Jamaican-Developers-Git-Training-Git-training-1" border="0">
+
+#### Clone repository
 
 > Normally, Git repository hosting services generates two remote URL for each
 > project, a **git url** or **https url**.
@@ -70,4 +75,11 @@ Copy the following code to your `.md` file and fillout the remainding content:
 - <what-do-you-wish-to-learn-next>
 ```
 
+### Step 3. Commit the changes.
+
+Execute the following command is your git terminal:
+```bash
+git status
+```
+You
 
