@@ -1,9 +1,8 @@
 ## About b4oshany
+<img width="200" title="b4oshany" alt="portfolio_view" src="https://octodex.github.com/images/minion.png">
 
-![Minion](https://octodex.github.com/images/minion.png )
-
-- **Name**: Oshane Bailey :-( 8-)
-- **Nationality**: Jamaican :jamaica:
+- **Name**: Oshane Bailey :bowtie:
+- **Nationality**: Jamaican <img width="30" title="jamaica" src="https://cdn.webshopapp.com/shops/94414/files/54035844/jamaica-flag-icon-free-download.jpg" />
 - **Website**: https://jamaicandevelopers.com
 
 #### Tech Stack
