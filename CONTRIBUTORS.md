@@ -9,7 +9,7 @@
 
 #### List of contributors.
 
-- Joanna-Joy Gray
+- Joanna-Joy Gray  (@joygray21)
 - Lateefah Smellie (@raverd)
 - Glenford Williams (@glenfordwilliams)
 - Vivienne Bailey
